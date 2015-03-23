@@ -2,6 +2,7 @@
 Course project of the Getting and Cleaning Data Course
 
 *Transformations performed to clean up the data
+
 In the run_analysis.R the first step is to set up the environment including the pagecages needed and the directory where the data is saved
 
 The second step is to load the test and training datasets, including the
